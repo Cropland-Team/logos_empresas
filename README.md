@@ -21,5 +21,5 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 
 >> Negativo
 
-
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Bayer-white.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Cooxupe-white.png
