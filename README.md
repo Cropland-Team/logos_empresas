@@ -4,8 +4,11 @@ Gerar o link da imagem e configurar no setup > Owner > link logo...
 <img width="366" height="380" alt="image" src="https://github.com/user-attachments/assets/080d301e-45b3-45e8-b604-fbda90a19b6a" />
 
 LOGO: Canal Positivo
+
 LOGO 2: Industria Positivo
+
 LOGO 3:
+
 LOGO 4:
 
 LINKS DAS IMAGENS:
