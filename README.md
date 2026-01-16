@@ -17,4 +17,5 @@ LINKS DAS IMAGENS:
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Agrex-do-brasil.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Bayer.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Basf-agro.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Cooxupe-horizontal.png
 
