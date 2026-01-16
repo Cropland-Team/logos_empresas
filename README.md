@@ -19,3 +19,7 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Basf-agro.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Cooxupe-horizontal.png
 
+>> Negativo
+
+
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Bayer-white.png
