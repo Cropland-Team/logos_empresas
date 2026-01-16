@@ -18,10 +18,6 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Bayer.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Basf-agro.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Cooxupe-horizontal.png
-
->> Negativo
-
-https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Bayer-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Camda.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Coopercitrus.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Copercana.png
@@ -29,3 +25,8 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Cooxupe-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Nova%20Era%20Agricola.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Valoriza.png
+
+>> Negativo
+
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Bayer-white.png
+
