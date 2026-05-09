@@ -35,7 +35,7 @@ LOGO 3: Canal Negativo (tela escura)
 LOGO 4: Industria Negativo (tela escura)
 
 <b>LINKS DAS IMAGENS:</b>
-<b>>> Posisito</b>
+<b>>> Positivo</b>
 
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Agrex-do-brasil.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Bayer.png
@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Agrex-do-brasil-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Bayer-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Basf-agro.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/coopacer.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Camda-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Coopercitrus-white.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/Cooxupe-white.png
