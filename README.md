@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Nova%20Era%20Agricola.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Valoriza.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/cropland_verde.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Logo%20coopera%20%2B.png
 
 <b>>> Negativo</b>
 
