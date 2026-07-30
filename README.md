@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/P
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/cropland_verde.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/Logo%20coopera%20%2B.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/logo_lar_transparente.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Positivo/comigo.png
 
 <b>>> Negativo</b>
 
@@ -68,4 +69,5 @@ https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/N
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/ae3804db65af9e5105f2d655d9c7cadc7d186d73/Negativo/cropland_branca.svg
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/logo_coopera_negativo_branco.png
 https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/logo_lar_negativo_branco.png
+https://raw.githubusercontent.com/Cropland-Team/logos_empresas/refs/heads/main/Negativo/comigo_negativo.png
 
